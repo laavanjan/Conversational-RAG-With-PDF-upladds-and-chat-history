@@ -1,14 +1,18 @@
 
 # Conversational-RAG-With-PDF-uploads-and-chat-history
-(img1.png)
+![Alt Text]( img1.png )
 
 This repository demonstrates a conversational Retrieval Augmented Generation (RAG) application that allows users to upload PDF files and engage in interactive conversations with the content of those PDFs.  The application leverages LangChain, ChromaDB, Hugging Face embeddings, and the Groq LLM to provide a seamless and context-aware chat experience.
+
+
 📸 Example Usage
-| Image 1 | Image 2 | Image 3 |
+| Questions with retrieved documents | Creating a session and uploading documents | chat history and retrieved documents |
 |---------|---------|---------|
 | ![Alt Text](img7.png) | ![Alt Text](img2.png) | ![Alt Text](img3.png) |
-| Image 4 | Image 5 | Image 6 |
+| "What is ML" question and answer | "What is Deep Learning" question and answer | chat history |
 | ![Alt Text](img4.png) | ![Alt Text](img5.png) | ![Alt Text](img6.png) |
+
+<div align="center">---Click to view image---</div>
 
 
 ## Table of Contents
